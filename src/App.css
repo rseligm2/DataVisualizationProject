@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-color: #E8E9EA;
+}
+
+h2 {
+  margin-top: 0;
 }
 
 .App-logo {
@@ -26,6 +31,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Figure {
+  margin-top: 50px;
+  background-color: #E8E9EA;
 }
 
 @keyframes App-logo-spin {
