@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DataVisualizationProject/static/css/main.7ac23cee.chunk.css",
+    "main.js": "/DataVisualizationProject/static/js/main.4c9e91fe.chunk.js",
+    "main.js.map": "/DataVisualizationProject/static/js/main.4c9e91fe.chunk.js.map",
+    "runtime-main.js": "/DataVisualizationProject/static/js/runtime-main.b7911d4c.js",
+    "runtime-main.js.map": "/DataVisualizationProject/static/js/runtime-main.b7911d4c.js.map",
+    "static/js/2.8ae9b604.chunk.js": "/DataVisualizationProject/static/js/2.8ae9b604.chunk.js",
+    "static/js/2.8ae9b604.chunk.js.map": "/DataVisualizationProject/static/js/2.8ae9b604.chunk.js.map",
+    "index.html": "/DataVisualizationProject/index.html",
+    "precache-manifest.c9333dc027ceccbe49841f0040543572.js": "/DataVisualizationProject/precache-manifest.c9333dc027ceccbe49841f0040543572.js",
+    "service-worker.js": "/DataVisualizationProject/service-worker.js",
+    "static/css/main.7ac23cee.chunk.css.map": "/DataVisualizationProject/static/css/main.7ac23cee.chunk.css.map",
+    "static/js/2.8ae9b604.chunk.js.LICENSE.txt": "/DataVisualizationProject/static/js/2.8ae9b604.chunk.js.LICENSE.txt",
+    "static/media/majordata.csv": "/DataVisualizationProject/static/media/majordata.3af28ac9.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7911d4c.js",
+    "static/js/2.8ae9b604.chunk.js",
+    "static/css/main.7ac23cee.chunk.css",
+    "static/js/main.4c9e91fe.chunk.js"
+  ]
+}
