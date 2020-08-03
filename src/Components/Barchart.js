@@ -65,7 +65,8 @@ function Barchart({data, size, handleTool, handleToolOff, handleClickMajor}){
                 .append("rect")
                 .style("fill", (d, i) => {
                     return colorScale(i);
-                }) 
+                })
+                .style('cursor', 'pointer') 
                 .attr('x', (d, i) => i * barWidth)
                 .attr('y', (d) => yScale(parseInt(d.value.total, 10)))
                 .attr('height', d => size[1] - yScale(parseInt(d.value.total, 10)))
